@@ -27,7 +27,7 @@
     <properties>
         <maven.build.sourceVersion>11</maven.build.sourceVersion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <tas.utility.version>3.0.42</tas.utility.version>
+        <tas.utility.version>3.0.43</tas.utility.version>
         <jackrabbit-webdav.version>2.13.1</jackrabbit-webdav.version>
         <java.version>11</java.version>
     </properties>
