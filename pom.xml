@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.alfresco.tas</groupId>
     <artifactId>webdav</artifactId>
-    <version>1.7-SNAPSHOT</version>
+    <version>1.9-SNAPSHOT</version>
     <name>tas-webdav</name>
     <description>WebDav - Web Distributed Authoring and Versioning</description>
     <parent>
         <groupId>org.alfresco</groupId>
         <artifactId>alfresco-super-pom</artifactId>
-        <version>10</version>
+        <version>12</version>
     </parent>
 
     <organization>
@@ -27,7 +27,7 @@
     <properties>
         <maven.build.sourceVersion>11</maven.build.sourceVersion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <tas.utility.version>3.0.45</tas.utility.version>
+        <tas.utility.version>3.0.53</tas.utility.version>
         <jackrabbit-webdav.version>2.21.7</jackrabbit-webdav.version>
         <java.version>11</java.version>
     </properties>
@@ -113,7 +113,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-project-info-reports-plugin</artifactId>
-                <version>2.9</version>
+                <version>3.1.2</version>
                 <reportSets>
                     <reportSet>
                         <reports>
