@@ -13,6 +13,4 @@ jobs:
   build_and_release:
       name: "Build and Release"
       uses: Alfresco/alfresco-build-tools/.github/workflows/build-and-release-maven.yml@feature/ACS-4456_migrate-to-GHA
-      with:
-        skip-tests: true
       secrets: inherit
