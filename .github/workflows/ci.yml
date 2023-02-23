@@ -12,5 +12,5 @@ on:
 jobs:
   build_and_release:
       name: "Build and Release"
-      uses: Alfresco/alfresco-build-tools/.github/workflows/build-and-release-maven.yml@v1.34.2
+      uses: Alfresco/alfresco-build-tools/.github/workflows/build-and-release-maven.yml@v1.35.1
       secrets: inherit
