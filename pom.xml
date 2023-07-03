@@ -31,7 +31,7 @@
         <maven.compiler.release>${java.version}</maven.compiler.release>
         <maven.build.sourceVersion>${java.version}</maven.build.sourceVersion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <tas.utility.version>4.0.3</tas.utility.version>
+        <tas.utility.version>4.0.4</tas.utility.version>
         <jackrabbit-webdav.version>2.13.1</jackrabbit-webdav.version>
     </properties>
 
